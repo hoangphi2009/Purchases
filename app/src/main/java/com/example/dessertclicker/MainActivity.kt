@@ -1,7 +1,4 @@
-
-
 package com.example.dessertclicker
-
 import android.content.ActivityNotFoundException
 import android.content.Context
 import android.content.Intent
@@ -49,8 +46,6 @@ import androidx.core.content.ContextCompat
 import com.example.dessertclicker.data.Datasource
 import com.example.dessertclicker.model.Dessert
 import com.example.dessertclicker.ui.theme.DessertClickerTheme
-
-
 private const val TAG = "MainActivity"
 
 class MainActivity : ComponentActivity() {
